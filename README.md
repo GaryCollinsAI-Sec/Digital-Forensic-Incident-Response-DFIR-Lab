@@ -1,4 +1,4 @@
-# Digital Forensic and Incident-Response (DFIR) Lab
+# Digital Forensic & Incident-Response (DFIR) Lab
 
 
 <h2>Objective</h2>
